@@ -1,0 +1,8 @@
+# .env
+ALERT_EMAIL_USER=".................."
+ALERT_EMAIL_PASS=".............."  # From Google Account > App Passwords
+ADMIN_EMAIL="........."
+# Add these for admin login:
+SECRET_KEY="0000"
+ADMIN_USERNAME="admin"
+ADMIN_PASSWORD="admin"
